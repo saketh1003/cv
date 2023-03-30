@@ -1,0 +1,38 @@
+body
+    {
+        background-color: rgb(217, 226, 232);
+    }
+    hr
+    {
+       border-style: none;
+       border-top-style: dotted;
+       border-color: grey;
+       border-width: 5px;
+       width: 5%;
+    }
+    h1
+    {
+        /* background-color: rgb(33, 37, 114); */
+        color: rgb(11, 119, 134);
+        font-size: 35px;
+
+    }
+    h3{
+        color: rgb(11, 119, 134);
+    }
+    /* img
+    {
+        background-color: aquamarine;
+    } */
+    img:hover
+    {
+        background-color:gold;
+    }
+    .image
+    {
+        background-color: rgb(235, 52, 89);
+    }
+    .circular
+    {
+        border-radius: 100%;
+    }
